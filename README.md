@@ -1,6 +1,3 @@
-Certainly! Here's the modified version without the circuit diagram mentions:
-
-```markdown
 # D1 Mini Smart Clock
 
 Welcome to the D1 Mini Smart Clock project! This innovative clock harnesses the power of the ESP8266-based D1 Mini module, DHT22 temperature and humidity sensor, and SSD1306 OLED display to bring you a versatile and energy-efficient timekeeping solution.
@@ -50,4 +47,4 @@ Contributions are highly appreciated! If you have ideas for improvements or new 
 ## License
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE). Feel free to modify and distribute the code in accordance with the terms of the license.
-```
+
